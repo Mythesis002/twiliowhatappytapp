@@ -1,2 +1,2 @@
-streamlit==0.89.0
-cloudinary==1.26.0
+streamlit==1.21.0
+cloudinary==1.32.0
