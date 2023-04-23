@@ -1,3 +1,4 @@
+/home/appuser/venv/bin/python -m pip install --upgrade pip
 streamlit==1.21.0
 streamlit-player==0.1.5
 requests==2.28.2
